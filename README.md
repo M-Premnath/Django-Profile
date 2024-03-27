@@ -11,9 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 * SQLite - Database Engine
 * Html,css - Frontend.
 
-## Installing
+## Installing Requirements: 
 Install the basic requirements for running this project once setup is completed follow the upcoming steps to run this project in your localhost
-
+## Follow these steps to Run this Project
 ### Step 1:
 - `cd mywebsite`  -- change directory to the current project directory.
 ### Step 2:
